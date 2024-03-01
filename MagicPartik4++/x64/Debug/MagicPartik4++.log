@@ -1,0 +1,3 @@
+﻿  MagicPartik4++.cpp
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\жопа\Visual Studio\MagicPartik4++\MagicPartik4++\MagicPartik4++.cpp(37,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MagicPartik4++.vcxproj -> C:\Users\kostu\OneDrive\Рабочий стол\Учеба\жопа\Visual Studio\MagicPartik4++\x64\Debug\MagicPartik4++.exe
